@@ -1,0 +1,24 @@
+{
+  "name": "e2e-cypressio-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcdacz/e2e-cypressio-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcdacz/e2e-cypressio-node/issues"
+  },
+  "homepage": "https://github.com/marcdacz/e2e-cypressio-node#readme",
+  "devDependencies": {
+    "cypress": "^2.1.0",
+    "faker": "^4.1.0"
+  }
+}
