@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# project files
+.vscode/settings.json
+mochawesome-report/*
+cypress/screenshots/*
+cypress/videos/*
+package-lock.json
