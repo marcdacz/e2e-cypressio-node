@@ -8,8 +8,12 @@ $ npm install
 ```
 
 ### Execution:
-1. Open Cypress App
+Execute Tests:
+```sh
+npm run test
 ```
-$ npm test
+
+Generate report
+```sh
+npm run report
 ```
-2. Select a test (ie. todo_spec.js) then double-click
